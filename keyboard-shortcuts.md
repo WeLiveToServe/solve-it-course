@@ -1,5 +1,4 @@
-# solve-it platform keyboard shortcuts (mac) 
-
+```     # solve-it platform keyboard shortcuts (mac) 
 ### Navigation
 Command                          Trigger
 -------------------------------- ---------------------------------
@@ -126,3 +125,4 @@ Column Selection                    Ctrl + ⇧ + Alt + arrows
 Command                          Trigger
 -------------------------------- ---------------------------------
 Open Terminal                      ⇧ + t
+```
